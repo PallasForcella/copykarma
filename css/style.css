@@ -18,6 +18,7 @@ html {
 
 body {
   margin: 0;
+  background-color: LightGrey;
 }
 
 /* HTML5 display definitions
@@ -425,3 +426,17 @@ td,
 th {
   padding: 0;
 }
+/* Navigation Section */
+.top-navigation {
+    background-color: #fff;
+}
+.top-navigation > .content {
+    width: 970px;
+    height: 70px;
+    margin: 0 auto;
+}
+img{
+  margin-top: .8em;
+  margin-bottom: auto;
+}
+
