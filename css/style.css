@@ -85,16 +85,16 @@ button {
   border-style: none;
   border-radius: 4px;
   padding: 1rem 1.5rem;
-  font-size: 1.125rem;
   cursor: pointer;
   margin: 0em;
-  font: normal normal normal 12.6666669845581px/normal Arial;
-  text-rendering: auto;
-  color: initial;
-  letter-spacing: normal;
-  word-spacing: normal;
-  text-transform: none;
-  text-indent: 0px;
+  font-family: Arial;
+  font-size: 1.125rem;
+  color: white;
   display: inline-block;
   text-align: start;
+}
+button:hover {
+  background-color: #d9400e;
+  border-color: #cf3d0e;
+  cursor: pointer;
 }
