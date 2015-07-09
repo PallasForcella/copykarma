@@ -22,8 +22,11 @@ body{
     color: #4c5058;
     font-weight: 600;
 }
-img{
+.logo{
   float:left;
+  margin-top: 15.5px;
+  margin-bottom: 15.5px;
+
 }
 
 .top-navigation .links {
