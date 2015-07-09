@@ -14,7 +14,9 @@ html {
     margin: 0 auto;
 
 }
-
+body{
+  margin:0px;
+}
 
 .top-navigation .links > .active {
     color: #4c5058;
